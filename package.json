@@ -1,6 +1,6 @@
 {
-  "name": "rn-fetch-blob",
-  "version": "0.13.0-beta.1",
+  "name": "rjcrn-fetch-blob",
+  "version": "0.13.1",
   "description": "A module provides upload, download, and files access API. Supports file stream read/write for process large files.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "image header"
   ],
   "repository": {
-    "url": "https://github.com/joltup/rn-fetch-blob.git"
+    "url": "https://github.com/joel-chalkley-od/rjcrn-fetch-blob"
   },
   "author": "Joltup",
   "license": "MIT",
